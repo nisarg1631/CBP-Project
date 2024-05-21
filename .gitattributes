@@ -1,0 +1,6 @@
+features/acd_cleaned.csv filter=lfs diff=lfs merge=lfs -text
+features/oth_cleaned.csv filter=lfs diff=lfs merge=lfs -text
+features/soc_cleaned.csv filter=lfs diff=lfs merge=lfs -text
+features/aad_cleaned.csv filter=lfs diff=lfs merge=lfs -text
+models_pca_10/modelRFC.pkl filter=lfs diff=lfs merge=lfs -text
+models_pca_20/modelRFC.pkl filter=lfs diff=lfs merge=lfs -text
